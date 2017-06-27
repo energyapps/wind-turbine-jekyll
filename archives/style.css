@@ -1,13 +1,5 @@
 /********************************************
 
-	Styles to be added to energy.gov in order 
-	to allow it to look however you want it.
-	Reminder: make it responsive
-
-********************************************/
-
-/********************************************
-
   Styles to be added to energy.gov in order 
   to allow it to look however you want it.
   Reminder: make it responsive
@@ -24,7 +16,7 @@ Map
     position: relative;
     width: 100%;
     height: 600px;
-    background-image: url('../img/BG_sky.png');
+    background-image: url('/sites/prod/files/BG_sky.png');
     background-position: top left;
     background-repeat: repeat-x;
     overflow: hidden;
